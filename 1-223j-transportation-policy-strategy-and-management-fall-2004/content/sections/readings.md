@@ -1,0 +1,29 @@
+---
+course_id: 1-223j-transportation-policy-strategy-and-management-fall-2004
+layout: course_section
+menu:
+  leftnav:
+    identifier: 76c6b48f989f90fe87d4d3803876df4e
+    name: Readings
+    weight: 30
+title: Readings
+type: course
+uid: 76c6b48f989f90fe87d4d3803876df4e
+
+---
+
+| LEC # | TOPICS | Readings |
+| --- | --- | --- |
+| 1 | Course Introduction | &nbsp; |
+| 2 | Alternative Models of Decision Making in Government and Business | Isenberg, Daniel J. "How Senior Managers Think." _Harvard Business Review_ (November-December 1984): 81-90.  {{< br >}}  {{< br >}}Lindblom, Charles. "The Science of Muddling Through." _Public Administration Review_ 14 (Spring 1989): 79-88.  {{< br >}}  {{< br >}}Zaleznik, Abraham. "Management and Leaders: Are They Different?" _Harvard Business Review_ (March-April 1992): 126-135.  {{< br >}}  {{< br >}}Kanter, Rosabeth Moss. "The New Managerial Work." _Harvard Business Review_ (November-December 1989): 85-92. |
+| 3 | Managing Uncertainty: Strategic Planning in Business | Wack, Pierre. "Scenarios: Shooting the Rapids." _Harvard Business Review_ (November 1985): 122-135.  {{< br >}}  {{< br >}}Zack, Michael. "Developing a Knowledge Strategy." _California Management Review_ (April 1999): 139-61.  {{< br >}}  {{< br >}}Mintzberg, Henry. "The Fall and Rise of Strategic Planning." _Harvard Business Review_ (January-February 1994): 107-114 |
+| 4 | Managing Stakeholders and Problem Definition: Strategic Planning in Government | Jick, Todd D. "The Vision Thing." _Harvard Business School Case_ 9-490-019 (1989): 1-7.  {{< br >}}  {{< br >}}Hazard, J. "Managing National Transportation Policy." Chapter 2 in _The Federal Executive Setting._ Washington, DC: Eno Foundation, 1989, pp. 31-43.  {{< br >}}  {{< br >}}Coughlin, Joseph F. "Can a Cabinet Official Innovate? Entrepreneurial Politics and National Transportation Policy." _Public Works Management and Policy_ 1, no. 3 (January 1997): 209-223. |
+| 5 | Government-Business Relations in Transportation: Patterns of Conflict and Cooperation | Vogel, David J. "The Study of Business and Politics." _California Management Review_ 38, no. 3 (Spring 1996): 146-165.  {{< br >}}  {{< br >}}Kanter, Rosabeth Moss. "The Institutional Perspective on Management." _Harvard Business School Research Note_ 9-897-185 (1997): 1-10.  {{< br >}}  {{< br >}}"Public Policy and the Manager." _Harvard Business School Research Note_ (1993): 1-13. |
+| 6 | Government-Business Relations in Conflict: Regulating Transportation Safety | Leone, Robert. "Technology-Forcing Public Policies and the Automobile." In _Essays in Transportation Economics and Policy._ Edited by J. Gomez-Ibanez, W. Tye, and C. Winston. Washington, DC: Brookings Institution 1999. pp. 291-323. ISBN: 0815731817.  {{< br >}}  {{< br >}}Lave, Charles, and Lester Lave. "Fuel Economy and Auto Safety Regulation: Is the Cure Worse than the Disease?" In _Essays in Transportation Economics and Policy._ Edited by J. Gomez-Ibanez, W. Tye, and C. Winston. Washington, DC: Brookings Institution 1999. pp. 257-289. ISBN: 0815731817. |
+| 7 | Government-Business Relations in Conflict: Regulating Transportation's Influence on the Environment | "Unocal Corporation's SCRAP: Crushing Old Cars for Credit." _Harvard Business School Case_ (1991): 1-18.  {{< br >}}  {{< br >}}Hart, Stuart. "Beyond Greening: Strategies for a Sustainable World." _Harvard Business Review_ (January-February 1997): 67-78. |
+| 8 | Government-Business Relations in Cooperation: Transportation Research and Development | Diebold Institute for Public Policy Studies. "The Need for Cooperation between the Public and Private Sectors," and "The European ITS Experience: Lessons for the United States." Chapter 5, and 7 in _Transportation Infostructures: The Development of Intelligent Transportation Systems_. Westport, CT: Praeger, 1995, pp. 63-72, 108-131. ISBN: 0275951561.  {{< br >}}  {{< br >}}Sisodia, Rajendra. "Singapore Invests in the Nation-Corporation." _Harvard Business Review_ (May-June 1992): 40-50 |
+| 9 | Government-Business Relations in Cooperation: Transportation Infrastructure Development | Goetz, and J. Szyliowicz. "Revisiting Transportation Planning and Decision Making Theory: The Case of Denver International Airport." _Transportation Research A_ 31, no. 4 (1997).  {{< br >}}  {{< br >}}"BAE Automated Systems: Denver International Airport Baggage-Handling System." _Harvard Business School Case_ (1996): A:1-15, B: 1-3. |
+| 10 | Privatizing and Outsourcing of Transportation | Truitt, Lawrence, and Michael Esler. "Airport Privatization: Full Divesture and Its Alternatives." _Policy Studies Journal_ 24, no. 1 (1996): 100-110.  {{< br >}}  {{< br >}}Gomez, Jose A., and John Meyer. _Going Private: The International Experience with Transport Privatization_. Washington, DC: Brookings, 1993, pp. 22-36, 275-297. ISBN: 0815731795. |
+| 11 | Crash! Strategic Management of Transportation Disaster | Ray, Sally J. _Strategic Communications in Crisis Management_. (Airlines) Westport, CT: Quorum Books, 1999, pp. 13-54, 95-115, 159-182, 241-249. ISBN: 1567201539.  {{< br >}}  {{< br >}}"Massachusetts Bay Transportation Authority (MBTA) Commuter Train and AMTRAK Train Collision." _Harvard Business School_ _Case_ (1990): 1-12. |
+| 12 | Change Management in Transportation | Christensen, Clayton, and Michael Overdorf. "Meeting the Challenge of Disruptive Change." _Harvard Business Review_ (March-April 2000): 67-76.  {{< br >}}  {{< br >}}Rosegrant, Susan, and Todd Jick. "Northwest Airlines Confronts Change." _Harvard Business School Case_  (1996): 1-17. |
+| 13 | Globalization and Non-Governmental Organizations in Transportation | Prahalad, C. K., and Kenneth Lieberthal. "The End of Corporate Imperialism." _Harvard Business Review_ (July-August 1998): 69-80.  {{< br >}}  {{< br >}}Rosenzweig, Philip. "Mercedes-Benz." _Harvard Business School Case_ (1993): 1-10.
